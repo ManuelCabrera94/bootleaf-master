@@ -1,0 +1,75 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Pizzeria La Juvenil", "TEL": "(933) 337-0982", "URL": "", "ADRESS1": "Calle 1 #24, Gustavo de la Fuente, 86320 Comalcalco, Tab", "ADDRESS2": null, "CITY": "Comalcalco"}, "geometry": { "type": "Point", "coordinates": [ -93.2321510,18.2851000] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "BAR BARILOCHE", "TEL": "", "URL": "http:\/\/es.foursquare.com/v/bariloche-restaurant-bar/4f874a7de4b0202c044bc001\/", "ADRESS1": " Boulevard Leandro Rovirosa Wade, San Francisco, 86330 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2263360,18.2729650 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Picadas Gourmet", "TEL": "(933) 334-2278", "URL": "http:\/\/www.facebook.com/PicadasGourmet/\/", "ADRESS1": "Blvd. Leandro Rovirosa, San Francisco, 86330 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2263360, 18.2729650] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Restaurant Rancho Viejo", "TEL": "(933) 334-3046", "URL": "http:\/\/es.foursquare.com/v/restaurant-rancho-viejo/4f3f1e2ae4b0d66d1ecebbb5\/", "ADRESS1": " Boulevard Leandro Rovirosa Wade, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2245880, 18.2531010] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Las Cazuelitas Vip", "TEL": "(933) 337-0589", "URL": "http:\/\/www.cazuelitasvip.com.mx/index.php?seccion=who\/", "ADRESS1": "Blvd. Leandro Rovirosa, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2275030,18.2649730 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "La Casa de las Mojarras", "TEL": "(933) 121-8065", "URL": "http:\/\/www.directoriocomalcalco.com/subcategoria?sub=5\/", "ADRESS1": "Boulevard Leandro Rovirosa Wade, Buena Vista, 86359 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2250530, 18.2576360 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "El Pollo Viajero", "TEL": "(933) 337-0930", "URL": "http:\/\/\/", "ADRESS1": "Adolfo Lopez Mateos 523, Las Rosas, 86360 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [-93.2206310, 18.2683870] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "El Tiburon Blanco", "TEL": "(933) 129-7066", "URL": "http:\/\/mexico.pueblosamerica.com/res/restaurante-de-mariscos-el-tiburon-blanco\/", "ADRESS1": "Calle Gil y Sáenz, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2230470,18.2671700 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "El Anafre", "TEL": "(933) 334-1774", "URL": "http:\/\/www.facebook.com/Elanafrecomalcalco\/", "ADRESS1": "Blvd. Adolfo López Mateos S/N, Las Rosas, 86360 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2160670,18.2549080] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "Restaurant La Estancia", "TEL": "", "URL": "http:\/\/www.facebook.com/estanciadelbife\/", "ADRESS1": "Jorge Diaz Serrano,Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2062150, 18.2577430] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NAME": "Comalcalitas", "TEL": "(933) 334-8757", "URL": "http:\/\/www.facebook.com/tavola.cucina/?fref=nf\/history\/archives\/audubon_terrace_museum_group_102.html", "ADRESS1": "Calle 5 de Mayo, no. 121, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2256000, 18.2653510 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "NAME": "Bambu Sushi Bar", "TEL": "(933) 337-1132", "URL": "http:\/\/www.facebook.com/Bambu-RestaurantSushi-Bar-474084940520\/", "ADRESS1": "Calle 5 de Mayo 107, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10464.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2254160, 18.2650420] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "NAME": "Rosticeria Tabasco", "TEL": "(933) 158-3012", "URL": "", "ADRESS1": "103-B, Reforma, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11354.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2229150, 18.2664480 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "NAME": "La Jicara", "TEL": "(933) 334-1718", "URL": "", "ADRESS1": "Calle Lerdo No. 205, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10467.0 }, "geometry": { "type": "Point", "coordinates": [-93.2236550,18.2637370] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "NAME": "Zaragoza Restaurant Bar", "TEL": "(933) 334-6238", "URL": "http:\/\/twitter.com/zaragozabar\/", "ADRESS1": "Esquina Con Abasolo, Ignacio Zaragoza 202, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10456.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2249930, 18.2633770 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "NAME": "La Brasita", "TEL": "(933) 334-4151", "URL": "", "ADRESS1": "Ignacio Zaragoza 428, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11213.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2237840, 18.2611710 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "NAME": "Don sushi", "TEL": "(933) 334-3704", "URL": "", "ADRESS1": "Work Nicolas Bravo 307 Comalcalco Tabasco", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11201.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2241910, 18.2605700] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "NAME": "Pollo Feliz", "TEL": "(933) 337-0333", "URL": "http:\/\/www.facebook.com/pages/Pollo-Feliz-Comalcalco-Tabasco/162486530611325\/", "ADRESS1": "Reforma 530, Vicente Guerrero, 86350 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11238.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2207030, 18.2601590 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "NAME": "Restaurante Punta del Este", "TEL": "", "URL": "", "ADRESS1": "Sin nombre No 93 1512, Comalcalco, 86320 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2286250, 18.2586460 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "NAME": "Domino's Pizza Plaza Chedraui Comalcalco", "TEL": "01 800 366 4667", "URL": "http:\/\/www.indizze.mx/dominos-pizza-comalcalco\/", "ADRESS1": "Calle Granada, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2204080, 18.2655200 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "NAME": "Subway", "TEL": "(933) 334-2849", "URL": "http:\/\/subwaymexico.com.mx\/", "ADRESS1": "Blvd. Adolfo Lopez Mateos No. 102, Local 11-F, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2269420, 18.2655420] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "NAME": "Ensaladas La Terraza", "TEL": "(933) 117-6897", "URL": "http:\/\/www.facebook.com/EnsaladasLaTerraza\/", "ADRESS1": "Av Otto Wolter Peralta, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10040.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2293730, 18.2680140] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "NAME": "Pizzeria La Mexicana", "TEL": "(933) 334-3390", "URL": "", "ADRESS1": "David Bosada SN, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11224.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2247630,18.2658840] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "NAME": "Antojitos Manolin", "TEL": "(933) 334-5115", "URL": "http:\/\/www.facebook.com/pages/Antojitos-Manolin-Comalcalco-Tab/366974593371548\/", "ADRESS1": "309 Norte, Reforma, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10128.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2231120, 18.2674650] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "NAME": "A Takear", "TEL": "", "URL": "http:\/\/www.facebook.com/atakear/", "ADRESS1": "Boulevard Leandro Rovirosa Wade, San Francisco, 86330 Comalcalco, Tabasco.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2263360, 18.2729650 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "NAME": "Taqueria El Arca", "TEL": "(933) 136-3739", "URL": "http:\/\/www.facebook.com/pages/Taqueria-EL-ARCA/342992149102659\/", "ADRESS1": "Boulevard Leandro Rovirosa Wade, San Silverio, 86320 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2245320, 18.2773830 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "NAME": "Restaurante de Yuli", "TEL": "(933) 110-5453", "URL": "", "ADRESS1": "Boulevard Leandro Rovirosa Wade, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2245880, 18.2531010] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "NAME": "Cafe la Cabana", "TEL": "(933) 337-1150", "URL": "http:\/\/www.cafelacabana.com\/", "ADRESS1": "Miguel Lerdo de Tejada 409, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 1036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2227760, 18.2622130 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "NAME": "Pizzeria La Juvenil", "TEL": "(933) 334-4771", "URL": "", "ADRESS1": "Benito Juarez Garcia 805, Vicente Guerrero, 86350 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2212410, 18.2587800 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "NAME": "La Catedral del Taco", "TEL": "(933) 334-5061", "URL": "http:\/\/www.facebook.com/pages/La-Catedral-Del-Taco/316301215187110\/", "ADRESS1": "Benito Juarez Garcia 1026, Vicente Guerrero, 86350 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10034.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2200580, 18.2564730] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "NAME": "Pizza y Corre", "TEL": "(933) 334-6119", "URL": "http:\/\/www.facebook.com/pages/PIZZA-Y-CORRE-COMALCALCO/119834484789872\/", "ADRESS1": "Calle Mariano Abasolo, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2241540, 18.2638360] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "NAME": "Taqueria la Parrillada Suiza", "TEL": "(933) 334-9579", "URL": "http:\/\/www.facebook.com/La-parrillada-suiza-286799844751867\/", "ADRESS1": "Miguel Lerdo de Tejada 511, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10029.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2220970, 18.2610910 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "NAME": "Pizzas Tauro", "TEL": "(933) 334-6353", "URL": "http:\/\/www.facebook.com/pizzastauro\/", "ADRESS1": "Boulevard Leandro Rovirosa Wade 348, Vicente Guerrero, 86350 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2250340, 18.2563600 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "NAME": "Burger King", "TEL": "", "URL": "http:\/\/www.facebook.com/ComalcalcoLaPerlaDeLaChontalpa/posts/644771358884555\/", "ADRESS1": "Ignacio Lopez Rayon, Santa Amalia, 86370 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2199010, 18.2562340 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "NAME": "Hamburguesas y Pizzas Bufalo", "TEL": "(933) 334-3580", "URL": "", "ADRESS1": "Leandro Rivurosa SN, Delicias, 86370 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2273880, 18.2703310 ] } }
+]
+}

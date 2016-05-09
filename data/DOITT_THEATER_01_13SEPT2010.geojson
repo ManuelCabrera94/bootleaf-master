@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "HOTEL KAOMA", "TEL": "(993) 334-1964", "URL": "http:\/\/www.hotelkaoma.com/portada.php\/", "ADDRESS1": "Calle Morelos s/n Esquina Abasolo, Centro, 86300", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2246180,18.2635820] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Copacabana", "TEL": "01 933 334 1933", "URL": " ", "ADDRESS1": "Calle Aquiles Serdán 101, Centro, 86300 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab.", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [-93.2233490, 18.2618640] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Pat-Mal", "TEL": "01 933 334 0982", "URL": " ", "ADDRESS1": "Calle Morelos, Vicente Guerrero, 86350 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab.", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2224160,18.2596360] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Hotel Santander", "TEL": "01 933 334 4458", "URL": " ", "ADDRESS1": "Mariano Escobedo No. 103, Centro, 86300 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab.", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2236000,18.2622130] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hotel Colonial", "TEL": "01 933 334 5387", "URL": " ", "ADDRESS1": "Mariano Escobedo, Centro, 86300 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab.", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2245290,18.2618120] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "San Miguel", "TEL": "01 933 334 0036", "URL": " ", "ADDRESS1": "Benito Juárez García 535, Centro, 86300 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab.", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2223330,18.2606190] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Plaza Broca", "TEL": "01 933 334 6672", "URL": " ", "ADDRESS1": "Reforma, Centro, 86300 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab. ", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2229500,18.2667230] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Hotel Napoles", "TEL": "01 933 120 6734", "URL": "", "ADDRESS1": "Blvd. Adolfo López Mateos 234, Centro, 86300 ", "ADDRESS2": null, "CITY": "Comalcalco, Tab.", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2198650,18.2636800] } }
+]
+}
