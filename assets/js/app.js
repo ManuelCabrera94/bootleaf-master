@@ -1,4 +1,4 @@
-var map, featureList, boroughSearch = [], theaterSearch = [], museumSearch = [];
+﻿var map, featureList, boroughSearch = [], theaterSearch = [], museumSearch = [];
 
 $(window).resize(function() {
   sizeLayerControl();
@@ -114,7 +114,7 @@ function syncSidebar() {
 var mapquestOSM = L.tileLayer("https://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png", {
   maxZoom: 19,
   subdomains: ["otile1-s", "otile2-s", "otile3-s", "otile4-s"],
-  attribution: 'Tiles courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="https://developer.mapquest.com/content/osm/mq_logo.png">. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA.'
+  attribution: 'Cortesia de <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="https://developer.mapquest.com/content/osm/mq_logo.png">. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA.'
 });
 var mapquestOAM = L.tileLayer("https://{s}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.jpg", {
   maxZoom: 18,
@@ -370,7 +370,7 @@ $.getJSON("data/DATOS_RESTAURANTES.geojson", function (data) {
 
 map = L.map("map", {
   zoom: 10,
-  center: [18.2611560,-93.2216860],
+  center: [-93.2216860, 18.2611560],
   layers: [mapquestOSM, boroughs, markerClusters, highlight],
   zoomControl: false,
   attributionControl: false
@@ -435,6 +435,7 @@ var zoomControl = L.control.zoom({
 }).addTo(map);
 
 /* GPS enabled geolocation control set to follow the user's location */
+
 var locateControl = L.control.locate({
   position: "bottomright",
   drawCircle: true,
@@ -451,11 +452,13 @@ var locateControl = L.control.locate({
     clickable: false
   },
   icon: "fa fa-location-arrow",
-  metric: false,
+  metric: true,
   strings: {
-    title: "My location",
-    popup: "You are within {distance} {unit} from this point",
-    outsideMapBoundsMsg: "You seem located outside the boundaries of the map"
+    title: "Mi ubicacion",
+    metersUnit: "meters",
+    feetUnit: "feet",
+    popup: "Estas a {distance} {unit} desde este punto.",
+    outsideMapBoundsMsg: "Fuiste localizado fuera de los bordes del mapa"
   },
   locateOptions: {
     maxZoom: 18,
